@@ -31,9 +31,7 @@
 %   'bound'      Computes the exact value for pmax, but estimates
 %                pmin using a bound (default)
 %
-% Copyright (c) Brendan J. Frey and Delbert Dueck (2007). This
-% software may be freely used and distributed for
-% non-commercial purposes.
+
 
 function [pmin,pmax]=preferenceRange(s,varargin);
 
